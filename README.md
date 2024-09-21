@@ -12,26 +12,17 @@
 ## Installation
 1. Download and extract the game.
 2. Run `TAILS.exe` to start.
-3. Ensure input devices (keyboard or gamepad) are connected.
-
-### System Requirements
-- **OS**: Windows 10 or macOS 10.12+
-- **Processor**: 2.0 GHz dual-core
-- **RAM**: 4 GB
-- **Graphics**: Intel HD 4000+
-- **Storage**: 200 MB
+3. Ensure input devices keyboard is connected.
 
 ## How to Play
 ### Controls
 - **Player 1 (Keyboard)**: 
   - Move: **WASD**
   - Jump: **Space**
-  - Interact: **E**
   
 - **Player 2 (Gamepad)**: 
   - Move: **Left Stick**
   - Jump: **A**
-  - Interact: **X**
 
 ### Objective
 Work together to navigate through jungle-themed levels. Each player's unique abilities are essential to progressing. Communicate and coordinate to succeed.
@@ -40,10 +31,6 @@ Work together to navigate through jungle-themed levels. Each player's unique abi
 - **Game won’t start**: Check system requirements, extract all files, and verify input devices.
 - **Performance issues**: Lower resolution or close other applications.
 - **Input problems**: Reconnect devices and restart the game.
-
-## Contact & Support
-- **Email**: support@tailsgame.com  
-- **Discord**: [Link]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
