@@ -12,7 +12,7 @@
 ## Installation
 1. Download and extract the game.
 2. Run `TAILS.exe` to start.
-3. Ensure input devices keyboard is connected.
+3. Ensure input devices keyboard are connected.
 
 ## How to Play
 ### Controls
